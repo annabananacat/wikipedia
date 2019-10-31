@@ -1,0 +1,17 @@
+.intro_green{
+ background-color: #cef2e0;
+ border: 1px solid #a3bfb1;
+}
+
+.intro_blue{
+ background-color: #cedff2;
+ border: 1px solid #a3b0bf
+}
+
+.sidebar{
+  background-color: #eee;
+}
+
+img {
+  float: left;
+}
